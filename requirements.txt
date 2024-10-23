@@ -1,0 +1,11 @@
+fastapi
+psycopg2-binary
+sqlalchemy
+alembic
+bcrypt==4.0.1
+passlib
+python-jose
+python-multipart
+pytest
+httpx
+pytest-asyncio

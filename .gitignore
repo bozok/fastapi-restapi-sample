@@ -1,0 +1,8 @@
+.venv
+alembic
+alembic.ini
+*.db
+.idea
+__pycache__
+*.http
+alembic_instructions.txt
